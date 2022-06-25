@@ -125,7 +125,7 @@ int main() {
         auto startMainLoop = steady_clock::now();
         std::vector<punkt> powloka = grahamScan(punkty);
         auto endMainLoop = steady_clock::now();
-        std::cout << "Powloka wpukla\n[index] (wspolrzedna.x, wspolrzedna.y)" << std::endl;
+        std::cout << "Powloka wypukla\n[index] (wspolrzedna.x, wspolrzedna.y)" << std::endl;
 		display(powloka);
         std::cout << "\nCzas sortowania wynosi: " << duration_cast<microseconds>(endSort - startSort).count() << "us" << std::endl;
         std::cout << "Czas glownej petli wynosi: " << duration_cast<microseconds>(endMainLoop - startMainLoop).count() << "us" << std::endl;

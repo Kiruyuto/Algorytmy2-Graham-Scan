@@ -4,8 +4,7 @@ Wykonany został w trakcie trzeciego semestru na potrzeby kursu *Algorytmy 2*.
 Działanie programu ogranicza się do znalezienia i wypisania w konsoli punktów tworzących powłoke wypukłą.  
 Dodatkowo obliczany jest czas potrzebny na wykonanie poszczególnych elementów algorytmu.  
 Program został oceniony na 5.
-## Przykładowe działanie programu:  
-Przykład na podstawie [pointsTest.txt](example-point-sets/pointsTest.txt).  
+## Przykładowe działanie programu na podstawie [pointsTest.txt](example-point-sets/pointsTest.txt):  
 Program zwraca następujące wyniki:  
 ![TestSet](imgs/Set-Test.png)  
 

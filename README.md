@@ -11,5 +11,5 @@ Program zwraca następujące wyniki:
 Sam zestaw punktów na wykresie prezentuje się w następujący sposób (Etykietami oznaczone zostały punkty tworzące powłoke wypukłą - według programu):  
 ![PlottedTestSet](imgs/Plotted-TestSet.png)  
 
-Następnie możemy połączyć tworzące powłoke, aby jeszcze lepiej to zwizualizować:  
+Następnie możemy połączyć punkty tworzące powłoke, aby jeszcze lepiej to zwizualizować:  
 ![PlottedTestSetWithLines](imgs/Plotted-TestSet-WithLines.png)
